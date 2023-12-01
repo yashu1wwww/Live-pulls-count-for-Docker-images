@@ -26,8 +26,8 @@ npm install
 
 Run the script from the command line with the Docker image name as an argument
 
-node script.js <imageName>
+node dpc.js <imageName>
 
 # Example
 
-node script.js nginx
+node dpc.js nginx
