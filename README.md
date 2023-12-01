@@ -2,6 +2,8 @@
 
 Live pull count for Docker images using js
 
+# Couldn't find it on Google, so I created it.
+
 ![Alt text](images/docker.png)
 
 # Prerequisites
