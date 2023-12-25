@@ -6,6 +6,8 @@ Live pull count for Docker images using js
 
 ![Alt text](images/docker.png)
 
+# You're welcome to create it in React.js
+
 # Prerequisites
 
 Node.js installed on your machine. You can download it here.
