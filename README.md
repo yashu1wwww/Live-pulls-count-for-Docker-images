@@ -26,6 +26,8 @@ cd your-repository
 
 npm install
 
+npm install request-promise
+
 # Usage
 
 Run the script from the command line with the Docker image name as an argument
